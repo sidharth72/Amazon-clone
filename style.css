@@ -70,7 +70,7 @@
   .nav-search {
     display: flex;
     height: 40px;
-    width: 620px;
+    width: 700px;
     border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;
     text-align: center;
@@ -193,8 +193,8 @@
   }
   
   .panel-ops {
-    width: 70%;
-    font-size: 0.8rem;
+    width: 137%;
+    font-size: 14px;
   }
   
   .ptag {
@@ -203,6 +203,7 @@
   .deals {
     font-size: 0.9rem;
     font-weight: 700;
+    margin-right: 10px;
   }
   
   .main{
@@ -303,6 +304,7 @@
     color: white;
     height: 400px;
     display: flex;
+    font-weight: bold;
     justify-content: space-evenly;
   }
   
@@ -359,6 +361,10 @@
     /*display: flex;
     align-items: center;
     justify-content: center;*/
+  }
+
+  .box-heading{
+    font-size: 21px;
   }
   
   .page{
